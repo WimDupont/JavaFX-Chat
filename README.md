@@ -32,3 +32,5 @@ Notifications using Tray-Notifications Library
 
 <h3> New Features! - Voice Messages </h3>
 <img src="https://github.com/DomHeal/JavaFX-Chat/blob/master/screenshots/voicemessage.png?raw=true"/>
+
+Installed ttf-dejavu package to get JavaFX fonts on Linux; would not run client without.
